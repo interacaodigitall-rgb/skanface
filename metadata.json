@@ -1,0 +1,6 @@
+{
+  "name": "Supabase Face Camera Oval Overlay",
+  "description": "Production-ready face camera with Supabase oval pre-recorded video overlay, including full Flutter source code and live interactive simulation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
